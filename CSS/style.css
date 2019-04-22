@@ -162,10 +162,12 @@ body {
 }
 
 .tm-link>a>p {
+    font-size: 1.6em !important;
     text-align: center;
     margin-top: 90px;
     color: #fff;
 }
+
 
 .navbar {
     background-color: #676767 !important;
